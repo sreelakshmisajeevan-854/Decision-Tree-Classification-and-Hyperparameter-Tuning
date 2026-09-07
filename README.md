@@ -81,5 +81,5 @@ The trained Decision Tree was visualized to understand:
 Decision-Tree-Classification/
 │
 ├── Decision_Tree_Classification.ipynb
-├── dataset.csv
+├── heart_disease.xlsx
 └── README.md
